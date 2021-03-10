@@ -1,0 +1,6 @@
+#Operator precedence
+
+()
+**
+* /
++ -
